@@ -15,6 +15,7 @@ header {
     background-color: black;
     color: white;
     width: 960px;
+    height: auto;
     margin: auto;
 }
 
@@ -24,6 +25,8 @@ h1, h2 {
 }
 
 #coverImage {
+    width: 700px;
+    height: 900px;
     margin-left: auto;
     margin-right: auto;
 }
