@@ -20,8 +20,7 @@ img.resize {
     position: absolute;
     background-color: black;
     color: white;
-    width: 50%;
-    height: auto;
+    width: 960px;
     margin: auto;
 }
 
