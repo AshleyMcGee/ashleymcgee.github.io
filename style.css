@@ -1,6 +1,9 @@
 /*Website Style*/
 
-img {
-    height: 50%;
-    width: auto;
+body {
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: auto;
+    content: center;
 }
