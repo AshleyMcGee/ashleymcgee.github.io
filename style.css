@@ -9,10 +9,10 @@
 }
 
 h1, h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-img {
+img.resize {
     height: 50%;
     width: auto;
 }
