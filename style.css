@@ -1,9 +1,19 @@
 /*Website Style*/
 
-body {
+#container {
     background-color: black;
     color: white;
     width: 50%;
     height: auto;
     content: center;
 }
+
+h1, h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img {
+    height: 50%;
+    width: auto;
+}
+
