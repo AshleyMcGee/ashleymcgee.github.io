@@ -1,15 +1,27 @@
 /*Website Style*/
 
+body {
+    width:100%;
+    height: auto;
+    background-color: black;
+}
+
+header {
+    background-color: black;
+    color: black;
+}
+
 #container {
     background-color: black;
     color: white;
     width: 50%;
     height: auto;
-    content: center;
+    align-content: center;
 }
 
 h1, h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
 }
 
 img.resize {
