@@ -19,13 +19,75 @@ header {
     margin: auto;
 }
 
+#coverImage {
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1, h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
 #social {
-
+    width: 480px;
     list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 45px;
+    padding-top: 30px;
+    
+}
+
+.social_links {
+
+    display: inline;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 24px;
+    
+}
+
+a:link {color: white;}
+a:visited {color: white;}
+a:hover {color: orange;}
+a:active {color: lightsalmon;}
+
+.pContent {
+
+    width: 480px;
+    padding-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#data-table {
+
+    width: 590px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.data-header {
+
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+}
+
+.data {
+
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
 }
 
